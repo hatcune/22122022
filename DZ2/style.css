@@ -4,7 +4,7 @@ h1{
     font-family: 'Roboto', sans-serif;
 }
 p{
-    color: rgb(31, 23, 22);
+    color: rgb(32, 22, 21);
     font-family: 'Roboto', sans-serif;
     font-size: 12px;
     padding-top: 10px;
@@ -13,16 +13,16 @@ p{
 a{
     font-size: 12px;
     font-family: 'Roboto', sans-serif;
-    color: #bc0000;
+    color: #8b0000;
 }
 div{
     width: 300px;
     margin: 50px auto;
-    border: 1px solid rgb(31, 23, 22);
+    border: 1px solid rgb(32, 22, 21);
     padding: 20px 30px;
 }
 .block-black {
-    background-color:rgb(31, 23, 22);
+    background-color:rgb(32, 22, 21);
 }
 .block-black *{
     color: white;
